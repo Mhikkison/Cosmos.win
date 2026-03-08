@@ -72,7 +72,7 @@ python main.py
 ```
 *(It is highly recommended to run Cosmos.win inside **Windows Terminal** for proper font-ligatures and rendering).*
 
-*(Edit : If you want to use Cosmos as a binary file, use my [PyInstaller Batch Builder](https://github.com/limoondev/PyInstaller-Batch-Reimagined) 
+*(Edit : If you want to use Cosmos as a binary file, use my [PyInstaller Batch Builder](https://github.com/limoondev/PyInstaller-Batch-Reimagined))*
 
 ---
 
@@ -101,4 +101,5 @@ Cosmos.win is developed for **educational and defensive purposes only**. The dev
 <div align="center">
   <b>Made with ✦ by @limoons</b>
 </div>
+
 
